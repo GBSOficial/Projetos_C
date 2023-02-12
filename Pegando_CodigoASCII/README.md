@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Executavel que Captura o caracteres ASCII e a sua numeração decima
+Executavel que Captura o caracteres ASCII e a sua numeração decimal
 
 
 
